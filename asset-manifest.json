@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/retsept-gen/static/css/main.17bf0d6e.css",
+    "main.js": "/retsept-gen/static/js/main.b3da82f1.js",
+    "static/js/787.3e22468a.chunk.js": "/retsept-gen/static/js/787.3e22468a.chunk.js",
+    "index.html": "/retsept-gen/index.html",
+    "main.17bf0d6e.css.map": "/retsept-gen/static/css/main.17bf0d6e.css.map",
+    "main.b3da82f1.js.map": "/retsept-gen/static/js/main.b3da82f1.js.map",
+    "787.3e22468a.chunk.js.map": "/retsept-gen/static/js/787.3e22468a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17bf0d6e.css",
+    "static/js/main.b3da82f1.js"
+  ]
+}
